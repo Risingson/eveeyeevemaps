@@ -1,4 +1,4 @@
-# eveeye maps
+# eveeye map layouts
 Universe map for Eve Online and Eve Echoes.  
 The map is not the exact Eve Online map but got its coordinates modified by myself just a bit to overlap less but still match the ingame maps.  
 
