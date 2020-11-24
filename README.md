@@ -5,7 +5,7 @@ The map is not the exact Eve Online map but got its coordinates modified by myse
 You can use the files for your projects but need to link to eveeye.com or echoes.eveeye.com for your web/app (in a visible way, not from the last corner of your web/app ;)
 Please drop me a line and a link if you use the map.  
 
-I would say you should have a license from CCP to use the Eve Online IP in your web/app.  
+You should have a license from CCP to use the Eve Online IP in your web/app.  
 For Eve Online there is developers.eveonline.com.  
 I do not know if this is valid for Eve Echoes aswell. You should contact CCP or Netease about it.  
 
