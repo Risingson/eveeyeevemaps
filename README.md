@@ -1,5 +1,5 @@
 # evemaps
-Universe map for Eve Online and Eve Echoes
+Universe map for Eve Online and Eve Echoes.
 The maps are not the exact eve online map but are modified by myself just a bit to overlap less.
 
 You can use the files for your projects but need to link to eveeye.com or echoes.eveeye.com for your web/app (in a visible way, not from the last corner of your web/app ;)
