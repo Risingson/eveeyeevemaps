@@ -1,6 +1,6 @@
 # eveeye map layouts
 Universe map for Eve Online and Eve Echoes.  
-The map is not the exact Eve Online map but got its coordinates modified by myself just a bit to overlap less but still match the ingame maps.  
+The map is not the exact Eve Online map but got its coordinates modified by eveeye just a bit to overlap less but still match the ingame maps.  
 
 You can use the files for your projects but need to link to https://eveeye.com or https://echoes.eveeye.com for your web/app (in a visible way, not from the last corner of your web/app ;)
 Please drop me a line and a link if you use the map.  
